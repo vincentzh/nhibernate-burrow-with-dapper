@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhibernate-burrow-with-dapper", "nhibernate-burrow-with-dapper\nhibernate-burrow-with-dapper.csproj", "{685C9C56-AEFB-4CCA-9E22-05F5F426BD7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhibernate-burrow-with-dapper.Test", "nhibernate-burrow-with-dapper.Test\nhibernate-burrow-with-dapper.Test.csproj", "{13A37137-A416-4D2A-A7F7-78C0C1ADFD31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685C9C56-AEFB-4CCA-9E22-05F5F426BD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685C9C56-AEFB-4CCA-9E22-05F5F426BD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685C9C56-AEFB-4CCA-9E22-05F5F426BD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685C9C56-AEFB-4CCA-9E22-05F5F426BD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A37137-A416-4D2A-A7F7-78C0C1ADFD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A37137-A416-4D2A-A7F7-78C0C1ADFD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A37137-A416-4D2A-A7F7-78C0C1ADFD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A37137-A416-4D2A-A7F7-78C0C1ADFD31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

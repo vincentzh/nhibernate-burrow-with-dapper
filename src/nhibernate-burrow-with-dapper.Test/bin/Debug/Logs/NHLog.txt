@@ -1,0 +1,3 @@
+2014-01-02 22:28:24,231 [Runner thread] DEBUG NHibernate.SQL [(null)] <(null)> - Batch commands:
+command 0:UPDATE dbo.tblBrands SET Name = @p0, Abbrev = @p1, IsDisabled = @p2 WHERE Id = @p3;@p0 = 'Test13' [Type: String (4000)], @p1 = 'test' [Type: String (4000)], @p2 = False [Type: Boolean (0)], @p3 = 1 [Type: Int32 (0)]
+
