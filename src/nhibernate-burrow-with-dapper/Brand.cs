@@ -46,7 +46,7 @@ namespace nhibernate_burrow_with_dapper
         {
             get { return Id; }
         }
-
+        public Manufacturer Manufacturer { get; set; }
         #endregion
 
         #region Public Methods

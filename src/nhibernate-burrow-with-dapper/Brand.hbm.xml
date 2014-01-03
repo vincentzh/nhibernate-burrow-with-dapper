@@ -7,6 +7,7 @@
     <property name="Name" />
     <property name="Abbrev" />
     <property name="IsDisabled"  column="IsDisabled"/>
+	<many-to-one name="Manufacturer" column="ManufacturerId"/>
 
   </class>
 </hibernate-mapping>
