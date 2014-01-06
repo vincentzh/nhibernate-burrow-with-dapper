@@ -5,6 +5,7 @@ using NHibernate.Burrow.AppBlock.EntityBases;
 
 namespace nhibernate_burrow_with_dapper
 {
+    
     public class Manufacturer : PersistantObj<int>
     {
         readonly Iesi.Collections.Generic.ISet<Brand> brands =

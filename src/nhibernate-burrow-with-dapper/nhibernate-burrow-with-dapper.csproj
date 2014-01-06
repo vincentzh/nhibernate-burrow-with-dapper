@@ -52,7 +52,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Brand.cs" />
+    <Compile Include="BrandDAO.cs" />
     <Compile Include="Manufacturer.cs" />
+    <Compile Include="ManufacturerDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
